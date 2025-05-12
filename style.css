@@ -1,0 +1,17 @@
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+}
+
+#hoverDiv {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: lightcyan;
+  display: inline-block;
+  cursor: pointer;
+}
+
+#text {
+  margin-top: 10px;
+}
